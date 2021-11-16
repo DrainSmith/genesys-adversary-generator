@@ -5,8 +5,8 @@
       "caracs": {
         "brawn": 1,
         "agility": 2,
-        "intellect": 3,
-        "cunning": 1,
+        "intellect": 1,
+        "cunning": 3,
         "willpower": 1,
         "presence": 1
       },
@@ -22,8 +22,8 @@
       "caracs": {
         "brawn": 4,
         "agility": 2,
-        "intellect": 2,
-        "cunning": 1,
+        "intellect": 1,
+        "cunning": 2,
         "willpower": 1,
         "presence": 1
       },
@@ -39,8 +39,8 @@
       "caracs": {
         "brawn": 2,
         "agility": 3,
-        "intellect": 3,
-        "cunning": 1,
+        "intellect": 1,
+        "cunning": 3,
         "willpower": 1,
         "presence": 1
       },
@@ -107,8 +107,8 @@
       "caracs": {
         "brawn": 1,
         "agility": 2,
-        "intellect": 2,
-        "cunning": 3,
+        "intellect": 3,
+        "cunning": 2,
         "willpower": 2,
         "presence": 2
       },
@@ -175,8 +175,8 @@
       "caracs": {
         "brawn": 2,
         "agility": 1,
-        "intellect": 2,
-        "cunning": 5,
+        "intellect": 5,
+        "cunning": 2,
         "willpower": 2,
         "presence": 1
       },
@@ -192,8 +192,8 @@
       "caracs": {
         "brawn": 2,
         "agility": 2,
-        "intellect": 3,
-        "cunning": 2,
+        "intellect": 2,
+        "cunning": 3,
         "willpower": 3,
         "presence": 5
       },
@@ -209,8 +209,8 @@
       "caracs": {
         "brawn": 2,
         "agility": 4,
-        "intellect": 4,
-        "cunning": 2,
+        "intellect": 2,
+        "cunning": 4,
         "willpower": 2,
         "presence": 2
       },
